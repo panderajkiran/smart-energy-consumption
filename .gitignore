@@ -43,3 +43,4 @@ Thumbs.db
 # ─── Misc ─────────────────────────────────────────────────
 my-app/
 coverage/
+sample_data/household_power_consumption.txt
