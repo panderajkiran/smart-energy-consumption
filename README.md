@@ -109,3 +109,7 @@ App runs at → `http://localhost:3000`
 | Charts | Matplotlib (server-side → base64) |
 | Data | Pandas, NumPy |
 | Deploy | Vercel (frontend) + Render (backend) |
+
+
+Dataset is large and not included in repo.
+Download from: [your dataset link]
